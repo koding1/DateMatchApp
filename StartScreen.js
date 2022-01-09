@@ -32,7 +32,7 @@ function StartScreen({ navigation }) {
             colors={["#ee9ca7", "#ffdde1"]}
             style={styles.gradient}
           >
-            <Text style={styles.startButtonText}>시작</Text>
+            <Text style={styles.startButtonText}>Start</Text>
           </LinearGradient>
         </TouchableOpacity>
       </View>
